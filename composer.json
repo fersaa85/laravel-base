@@ -7,7 +7,10 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.2.*",
-        "lithiumdev/l5-swagger": "~1.0"
+        "lithiumdev/l5-swagger": "~1.0",
+        "laravelcollective/html": "~5.0",
+        "maatwebsite/excel": "~2.1.0",
+        "intervention/image": "^2.3"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
